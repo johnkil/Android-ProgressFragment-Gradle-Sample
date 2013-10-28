@@ -1,0 +1,19 @@
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.github.johnkil.android-progressfragment:progressfragment:1.3.1'
+}
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "18.1.0"
+
+    defaultConfig {
+        minSdkVersion 7
+        targetSdkVersion 18
+    }
+}
