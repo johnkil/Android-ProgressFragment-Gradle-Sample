@@ -1,1 +1,1 @@
-include ':progressfragment', ':sherlockprogressfragment'
+include ':progressfragment', ':sherlockprogressfragment', 'progressfragment-native'
