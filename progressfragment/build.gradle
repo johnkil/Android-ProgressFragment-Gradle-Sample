@@ -5,7 +5,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.johnkil.android-progressfragment:progressfragment:1.4.0'
+    compile 'com.github.johnkil.android-progressfragment:progressfragment:1.4.+'
 }
 
 android {

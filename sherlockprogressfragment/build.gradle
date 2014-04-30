@@ -6,7 +6,7 @@ repositories {
 
 dependencies {
     compile 'com.android.support:support-v4:19.1.0'
-    compile('com.github.johnkil.android-progressfragment:sherlockprogressfragment:1.4.0') {
+    compile('com.github.johnkil.android-progressfragment:sherlockprogressfragment:1.4.+') {
         exclude module: 'support-v4'
     }
 }
